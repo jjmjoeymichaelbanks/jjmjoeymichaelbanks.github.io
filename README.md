@@ -1,4 +1,4 @@
-IIS embedded windows 10+ Features, drop empty web.config in wwwroot after enable.                  
+IIS embed win10+ Features, drop empty web.config /inetpub/wwwroot enabled.                  
 From Search Start Menu 'Internet Information Services Manager.'                         
 http://99.60.170.184/ example home directory listing.                                  
 Film Classics Zero Thirty-nine Special Class List.                                      
